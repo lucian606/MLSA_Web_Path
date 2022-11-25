@@ -30,3 +30,6 @@
 - ### An image which is loaded from an unexisting url, so the fallback text is displayed
  
 ![](./outputs/2022-11-25-193317.png)
+
+## Task 04 - Git
+### Create a github repository, commit and push all the changes into that repository.
