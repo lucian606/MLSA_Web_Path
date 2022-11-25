@@ -12,16 +12,16 @@
 
 ### Your page should look similar to the one described in this picture
 
-![](/outputs/2022-11-25-19-17-30.png)
+![](./outputs/2022-11-25-19-17-30.png)
 
 ## Task 02 - Tables
 ### Create the **tables.html** file which will contain the following table.
 
-![](/outputs/2022-11-25-19-09-17.png)
+![](./outputs/2022-11-25-19-09-17.png)
 
 ### The border isn't mandatory but if you want to add it, you can do it like this.
 
-![](/outputs/2022-11-25-19-18-49.png)
+![](./outputs/2022-11-25-19-18-49.png)
 
 ## Task 03 - Images
 ### Create the **images.html** file which will contain a signup form, containing the following elements:  
