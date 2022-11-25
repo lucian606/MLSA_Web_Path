@@ -29,6 +29,8 @@
 - ### An image which is loaded from a url
 - ### An image which is loaded from an unexisting url, so the fallback text is displayed
  
+### Your page should look similar to the one described in this picture
+
 ![](./outputs/2022-11-25-193317.png)
 
 ## Task 04 - Git
