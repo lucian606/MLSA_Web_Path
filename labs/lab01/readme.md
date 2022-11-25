@@ -29,4 +29,4 @@
 - ### An image which is loaded from a url
 - ### An image which is loaded from an unexisting url, so the fallback text is displayed
  
-![](/outputs/2022-11-25-193317.png)
+![](./outputs/2022-11-25-193317.png)
