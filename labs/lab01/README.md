@@ -34,4 +34,4 @@
 ![](./outputs/2022-11-25-193317.png)
 
 ## Task 04 - Git
-### Create a github repository, commit and push all the changes into that repository.
+### Create a github repository, commit and push all the changes into that repository. Send me the link when you are finished.
