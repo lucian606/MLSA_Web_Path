@@ -13,3 +13,5 @@
 ## 5. Given an array remove all the elements which are divisible by 3.
 
 ## 6. Compute the sum of an array using functional programming.
+
+## 7. Write a function (or use the ones from above) and some variables and export them in another file.
