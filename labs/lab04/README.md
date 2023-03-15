@@ -10,4 +10,4 @@
 ### 4. As a user I would like to be able to delete comments and posts.
 #### Hint: Everyone can delete every post or comment, we don't have to worry about authentication...yet
 
-## For reference you can also check the screenshots in the screenshots folder.
+## For reference you can also check the examples in the screenshots folder.
