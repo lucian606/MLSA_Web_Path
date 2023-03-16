@@ -1,6 +1,6 @@
 # Lab 04: React Basics
 
-## Create a basic forum web application (like Reddit) using React. The app should have the following functionalities.
+## Create a basic forum web application (like Reddit) using React. The app should have the following functionalities:
 ### 1. As a user I would like to be able to create a new post with a custom title and description.
 #### Hint: You can either create a modal which asks for user input or you can redirect the user to a separate page which containts the form that creates a new post.
 #### Hint: Since we don't have access to a database, we can store the posts in memory, by using arrays/lists/etc...
